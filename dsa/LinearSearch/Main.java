@@ -1,4 +1,3 @@
-package myJavaPractice.dsa.LinearSearch;
 import java.util.Scanner;
 
 public class Main {

@@ -2,7 +2,7 @@ package dsa.BinarySearch;
 
 public class RotatedSortedArray {
   public static void main(String[] args) {
-    int [] nums = {3,5,1};
+    int [] nums = {3,4,5,2,1};
     int target = 3;
     System.out.println(search(nums,target));
   }
